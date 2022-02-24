@@ -1,0 +1,29 @@
+<h2>Datos de Pais</h2>
+<hr>
+
+<div *ngIf="!pais; else divPais" class="alert alert-info">
+    Espere por favor...
+</div>
+
+<ng-template #divPais>
+    <div class="row">
+        <div class="col-6"><img class="flag" [src]="pais.flags.png"></div>
+        <div class="col">{{pais.name.official}}</div>
+        <div class="col">{{pais.capital}}</div>
+    </div>
+    <div class="row mt-5">
+        <div class="col">
+            <span class="badge bg-primary m-1">{{pais.translations['spa'].common}}</span>
+            <span class="badge bg-primary m-1">{{pais.translations['jpn'].common}}</span>
+            <span class="badge bg-primary m-1">{{pais.translations['rus'].common}}</span>
+            <span class="badge bg-primary m-1">{{pais.translations['ita'].common}}</span>
+            <span class="badge bg-primary m-1">{{pais.translations['deu'].common}}</span>
+            <span class="badge bg-primary m-1">{{pais.translations['ara'].common}}</span>
+            <span class="badge bg-primary m-1">{{pais.translations['por'].common}}</span>
+            <span class="badge bg-primary m-1">{{pais.translations['pol'].common}}</span>
+        </div>
+    </div>
+    <div class="row">{{pais.translations | json}}</div>
+</ng-template>
+
+

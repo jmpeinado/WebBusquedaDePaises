@@ -1,0 +1,200 @@
+[
+    {
+        "name": {
+            "common": "Costa Rica",
+            "official": "Republic of Costa Rica",
+            "nativeName": {
+                "spa": {
+                    "official": "República de Costa Rica",
+                    "common": "Costa Rica"
+                }
+            }
+        },
+        "tld": [
+            ".cr"
+        ],
+        "cca2": "CR",
+        "ccn3": "188",
+        "cca3": "CRI",
+        "cioc": "CRC",
+        "independent": true,
+        "status": "officially-assigned",
+        "unMember": true,
+        "currencies": {
+            "CRC": {
+                "name": "Costa Rican colón",
+                "symbol": "₡"
+            }
+        },
+        "idd": {
+            "root": "+5",
+            "suffixes": [
+                "06"
+            ]
+        },
+        "capital": [
+            "San José"
+        ],
+        "altSpellings": [
+            "CR",
+            "Republic of Costa Rica",
+            "República de Costa Rica"
+        ],
+        "region": "Americas",
+        "subregion": "Central America",
+        "languages": {
+            "spa": "Spanish"
+        },
+        "translations": {
+            "ara": {
+                "official": "جمهورية كوستاريكا",
+                "common": "كوستاريكا"
+            },
+            "ces": {
+                "official": "Kostarická republika",
+                "common": "Kostarika"
+            },
+            "cym": {
+                "official": "Gweriniaeth Costa Rica",
+                "common": "Costa Rica"
+            },
+            "deu": {
+                "official": "Republik Costa Rica",
+                "common": "Costa Rica"
+            },
+            "est": {
+                "official": "Costa Rica Vabariik",
+                "common": "Costa Rica"
+            },
+            "fin": {
+                "official": "Costa Rican tasavalta",
+                "common": "Costa Rica"
+            },
+            "fra": {
+                "official": "République du Costa Rica",
+                "common": "Costa Rica"
+            },
+            "hrv": {
+                "official": "Republika Kostarika",
+                "common": "Kostarika"
+            },
+            "hun": {
+                "official": "Costa Rica-i Köztársaság",
+                "common": "Costa Rica"
+            },
+            "ita": {
+                "official": "Repubblica di Costa Rica",
+                "common": "Costa Rica"
+            },
+            "jpn": {
+                "official": "コスタリカ共和国",
+                "common": "コスタリカ"
+            },
+            "kor": {
+                "official": "코스타리카 공화국",
+                "common": "코스타리카"
+            },
+            "nld": {
+                "official": "Republiek Costa Rica",
+                "common": "Costa Rica"
+            },
+            "per": {
+                "official": "جمهوری کاستاریکا",
+                "common": "کاستاریکا"
+            },
+            "pol": {
+                "official": "Republika Kostaryki",
+                "common": "Kostaryka"
+            },
+            "por": {
+                "official": "República da Costa Rica",
+                "common": "Costa Rica"
+            },
+            "rus": {
+                "official": "Республика Коста-Рика",
+                "common": "Коста-Рика"
+            },
+            "slk": {
+                "official": "Kostarická republika",
+                "common": "Kostarika"
+            },
+            "spa": {
+                "official": "República de Costa Rica",
+                "common": "Costa Rica"
+            },
+            "swe": {
+                "official": "Republiken Costa Rica",
+                "common": "Costa Rica"
+            },
+            "urd": {
+                "official": "جمہوریہ کوسٹاریکا",
+                "common": "کوسٹاریکا"
+            },
+            "zho": {
+                "official": "哥斯达黎加共和国",
+                "common": "哥斯达黎加"
+            }
+        },
+        "latlng": [
+            10.0,
+            -84.0
+        ],
+        "landlocked": false,
+        "borders": [
+            "NIC",
+            "PAN"
+        ],
+        "area": 51100.0,
+        "demonyms": {
+            "eng": {
+                "f": "Costa Rican",
+                "m": "Costa Rican"
+            },
+            "fra": {
+                "f": "Costaricaine",
+                "m": "Costaricain"
+            }
+        },
+        "flag": "🇨🇷",
+        "maps": {
+            "googleMaps": "https://goo.gl/maps/RFiwytjvNrpfKN7k6",
+            "openStreetMaps": "https://www.openstreetmap.org/relation/287667"
+        },
+        "population": 5094114,
+        "gini": {
+            "2019": 48.2
+        },
+        "fifa": "CRC",
+        "car": {
+            "signs": [
+                "CR"
+            ],
+            "side": "right"
+        },
+        "timezones": [
+            "UTC-06:00"
+        ],
+        "continents": [
+            "North America"
+        ],
+        "flags": {
+            "png": "https://flagcdn.com/w320/cr.png",
+            "svg": "https://flagcdn.com/cr.svg"
+        },
+        "coatOfArms": {
+            "png": "https://mainfacts.com/media/images/coats_of_arms/cr.png",
+            "svg": "https://mainfacts.com/media/images/coats_of_arms/cr.svg"
+        },
+        "startOfWeek": "monday",
+        "capitalInfo": {
+            "latlng": [
+                9.93,
+                -84.09
+            ]
+        },
+        "postalCode": {
+            "format": "####",
+            "regex": "^(\\d{4})$"
+        }
+    }
+]
